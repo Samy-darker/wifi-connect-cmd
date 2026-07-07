@@ -10,6 +10,9 @@ detailed connection diagnostics that Windows normally hides.
 - Pulls detailed failure reasons from the Windows WLAN event log
 - Restart the WiFi adapter on demand
 
+## Screenshots
+![WiFi Connect CMD screenshot](assets/demo.png)
+
 ## Requirements
 - Windows 10/11
 - Python 3.8+
