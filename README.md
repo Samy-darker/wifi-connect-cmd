@@ -11,7 +11,7 @@ detailed connection diagnostics that Windows normally hides.
 - Restart the WiFi adapter on demand
 
 ## Screenshots
-![WiFi Connect CMD screenshot](assets/screenshot-1.png)
+![WiFi Connect CMD screenshot](assets/Screenshot-1.png)
 
 ## Requirements
 - Windows 10/11
