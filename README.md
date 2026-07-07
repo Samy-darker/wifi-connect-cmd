@@ -11,7 +11,7 @@ detailed connection diagnostics that Windows normally hides.
 - Restart the WiFi adapter on demand
 
 ## Screenshots
-![WiFi Connect CMD screenshot](assets/demo.png)
+![WiFi Connect CMD screenshot](assets/screenshot-1.png)
 
 ## Requirements
 - Windows 10/11
@@ -21,6 +21,5 @@ detailed connection diagnostics that Windows normally hides.
 ## Usage
 ```
 python wifi_connect.py
-OR 
-simply use RUN.bat
 ```
+Or simply use RUN.bat
